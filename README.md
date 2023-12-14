@@ -6,7 +6,7 @@
 
 ➡️ My name is <a href="https://github.com/tsjp2k4" target="_blank" rel="noreferrer">Thomas</a>, I'm 19 years old.
 
-➡️ I am currently a student and my main goal is to catch up on my studies so I can go to college and become a computer engineer. 
+➡️ I am currently a student and my main goal is to catch up on my studies so I can go to college and become a computer engineer.<br />
 ➡️ Sometimes when I have free time, I work on new open source projects to learn new technologies and expand my basic knowledge.
 
 💝 Feel free to follow my GitHub account so you'll be able to see all of my progress.
